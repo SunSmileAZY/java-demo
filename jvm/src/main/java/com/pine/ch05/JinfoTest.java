@@ -1,7 +1,7 @@
 package com.pine.ch05;
 
 /**
- * @author 【享学课堂】 King老师
+ * @author pine
  * VM Args：-Xms20m -Xmx20m -Xmn2m -XX:+PrintGC
  * jinfo演示
  */
